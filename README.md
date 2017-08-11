@@ -36,3 +36,7 @@
 **About Me**
 
 > Saya adalah seorang D3 lulusan teknik kimia industri yang sedang belajar coding di bootcamp Hacktiv8.
+
+**Future Plans**
+
+> Dengan mengembangkan website ini, saya berharap bisa membuat website yang berkontribusi bagi kepentingan banyak orang khususnya dalam bidang kesehatan.
